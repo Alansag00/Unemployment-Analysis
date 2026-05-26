@@ -6,6 +6,8 @@ This project focuses on analyzing unemployment trends using Python. It explores 
 
 The goal is to gain insights into employment patterns and understand which regions are most affected by unemployment.
 
+
+
 ## 📂 Dataset
 
 The dataset contains unemployment statistics including:
@@ -23,6 +25,7 @@ The dataset contains unemployment statistics including:
 * NumPy (Numerical operations)
 * Matplotlib (Data visualization)
 * Seaborn (Statistical plotting)
+
 
 
 ## 📊 Features
@@ -57,28 +60,28 @@ git clone https://github.com/your-username/unemployment-analysis.git
 
 ```bash
 pip install pandas numpy matplotlib seaborn
-
+```
 
 3. Run the Python script:
 
 ```bash
 python unemployment_analysis.py
+```
 
-
-
+---
 
 ## 📁 Project Structure
 
-
+```
 unemployment-analysis/
 │
 ├── unemployment_analysis.py
 ├── dataset.csv
 ├── README.md
 └── graphs/
+```
 
-
-
+---
 
 ## 🎯 Insights Gained
 
@@ -86,7 +89,7 @@ unemployment-analysis/
 * Unemployment fluctuates significantly over time.
 * Regional differences are clearly visible in visualizations.
 
-
+---
 
 ## 📌 Future Improvements
 
@@ -94,7 +97,7 @@ unemployment-analysis/
 * Predict future unemployment trends using ML
 * Automate data updates
 
-
+---
 
 ## 👨‍💻 Author
 
